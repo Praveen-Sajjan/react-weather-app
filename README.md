@@ -1,3 +1,15 @@
+HOW TO RUN THE APPLICATION LOCALLY !!!
+
+- Download the .zip file from the repository.
+
+- Please first setup your development environment and make sure you have basic tools such as NodeJS, npm and yarn pre-installed on your computer. 
+- I would recommend using a developer friendly text editor like Visual Studio Code to open the project.
+
+- Open up a shell in the root project folder, I would recommend using gitbash on a Windows PC or otherwise the regular terminal on MacOS or Linux.
+- While your shell is in the project’s root folder, run the yarn install command to install the npm dependencies. 
+- Once this is done you should be able to run yarn start and run the application on localhost:3000 and to see the results.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
